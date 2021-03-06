@@ -1,7 +1,10 @@
 ## Welcome to Spencer Stith's GitHub!
 
-I am a Computer Science major / Mathematics & High Performance Computing minor at The University of Tulsa.
-✉️Contact: [Email](mailto:spencerstith@yahoo.com)
+I am a Computer Science & Mathematics major / High Performance Computing minor at The University of Tulsa.
+✉️ Contact 📞
+[Email](mailto:spencerstith@yahoo.com)
+[LinkedIn](https://www.linkedin.com/in/spencer-stith/)
+
 
 A lot of my time goes into creative/visual coding projects, which you can see in my list of repositories (usually in the [Processing](https://processing.org) language).
 
