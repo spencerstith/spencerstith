@@ -1,7 +1,5 @@
 ## Welcome to Spencer Stith's GitHub!
 
-I am a Computer Science & Mathematics major / Cyber Security minor graduate from The University of Tulsa. I am currently on the hunt for a job!
-
 ✉️ Contact: [Email](mailto:spencerstith@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/spencer-stith/)
 
 A lot of my time goes into creative/visual coding projects, which you can see in my list of repositories (usually in the [Processing](https://processing.org) language). I have also been working on a library, [TinySet](https://www.github.com/spencerstith/TinySet), which is a database helper for Java.
